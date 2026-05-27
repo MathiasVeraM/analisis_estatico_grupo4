@@ -1,1 +1,1 @@
-# analisis_estatico_grupo4
+# ANALISIS ESTÁTICO GRUPO 4
